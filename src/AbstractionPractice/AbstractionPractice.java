@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package assignment1;
+package AbstractionPractice;
 
 /**
  *
  * @author MAC1
  */
-public class Assignment1 {
+public class AbstractionPractice {
 
     /**
      * @param args the command line arguments
