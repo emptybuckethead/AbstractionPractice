@@ -9,7 +9,6 @@ package AbstractionPractice;
  *
  * @author MAC1
  */
-public class Being {
-    ///being could be an interface?
-    
+public class DroidTurbo {
+    //Droid turbo is-a droid, smart phone, phone, electronic device, real thing, thing.
 }

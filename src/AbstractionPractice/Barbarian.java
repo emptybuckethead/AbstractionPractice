@@ -9,7 +9,6 @@ package AbstractionPractice;
  *
  * @author MAC1
  */
-public class Being {
-    ///being could be an interface?
-    
+public class Barbarian {
+   // barbarian is-a ground attacker, clash of clan troop, mythological character, thing.
 }

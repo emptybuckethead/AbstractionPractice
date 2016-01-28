@@ -9,7 +9,7 @@ package AbstractionPractice;
  *
  * @author MAC1
  */
-public class Being {
-    ///being could be an interface?
+public class Charlie {
+    //charlie is-a unicorn, mythological being, being, thing.
     
 }

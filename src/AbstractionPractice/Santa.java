@@ -9,7 +9,6 @@ package AbstractionPractice;
  *
  * @author MAC1
  */
-public class Being {
-    ///being could be an interface?
-    
+public class Santa {
+   //santa is-a mythological creature/person, being, thing. 
 }

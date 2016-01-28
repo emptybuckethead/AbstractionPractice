@@ -9,7 +9,7 @@ package AbstractionPractice;
  *
  * @author MAC1
  */
-public class Being {
-    ///being could be an interface?
+public class PoprscheRoadster {
+    //porsche roadster, is-a porsche, german sports car, sports car, vehicle, real thing, thing.
     
 }
